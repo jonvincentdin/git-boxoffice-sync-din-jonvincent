@@ -26,3 +26,4 @@ Require every contributor to fetch and integrate the latest feature/group-pricin
 
 ### Task 7
 ![Task 7](screenshots/task-7.png)
+![Task 7 - TAGGED](sceenshots/task-7-tagged.png)
